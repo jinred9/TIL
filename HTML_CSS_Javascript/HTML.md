@@ -163,8 +163,57 @@
 </div>
 ```
 
+## 1.3 입력양식 작성하기
+### 1.3.1 폼 삽입하기
+1. `<form>` 태그
+   **기본형** `<form [속성="속성값"]>여러 폼 요소</form>`
+   * `<form>`태그의 속성
+     * method : 사용자가 입력한 내용을 서버쪽 프로그램으로 어떻게 넘겨줄 것인지 지정합니다. `get`과 `post`방식이 있다.
+       * `get` : 데이터를 256~4096byte까지만 서버로 넘길 수 있다. 주소표시줄에 사용자가 입력한 내용이 그대로 드러나는 단점이 있다.
+       * `post` : 입력한 내용의 길이에 제한받지 않고 사용자가 입력한 내용도 드러나지 않습니다.
+     * name : 자바스크립트로 폼을 제어할 때 사용할 폼의 이름을 지정한다.
+     * action : `<form>`태그 안의 내용을 처리해 줄 서버 프로그램을 지정합니다.
+     * target : action 속성에서 지정한 스크립트 파일을 현재 창이 아닌 다른 위치에서 열도록 합니다.
+     * autocomplete : 폼에 내용을 입력할 때 자동 완성 기능을 제공하며, default = on이다.
+2. `<fieldset>`, `<lengend>`태그
+> 하나의 폼안에서 여러구역을 나누어 표시할 때 사용한다.
+```html
+<h4>주문</h4>
+<form action="">
+   <fieldset>
+      <legend>상품 선택</legend>
+   </fieldset>
+   <fieldset>
+      <legend>배송 정보</legend>
+   </fieldset>
+</form>
+```
+<h4>주문</h4>
+<form action="">
+   <fieldset>
+      <legend>상품 선택</legend>
+   </fieldset>
+   <fieldset>
+      <legend>배송 정보</legend>
+   </fieldset>
+</form>
 
+3. `<label>`태그
+> form 요소에 레이블을 붙일 때 사용한다. for속성은 폼요소의 id속성을 이용해 서로 연결할 수 있다. 폼요소의 id 속성값을 `<label>`태그의 for 속성에게 알려 주는 방법으로 사용한다.
+```html
+<label>상품명<input></label>
+<!-- ===================== -->
+<label for='user-id'>상품명</label>
+<input type='text' id='user-id'>
+```
+<label>상품명<input></label>
+<!-- ===================== -->
+<label for='user-id'>상품명</label>
+<input type='text' id='user-id'>
 
-
+### 1.3.2 input 태그
+1. `<input>`태그의 type속성
+   * text : 한 줄짜리 텍스트를 입력할 수 있는 텍스트 박스
+   * 
 
 
