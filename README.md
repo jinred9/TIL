@@ -5,15 +5,16 @@
 * [20230222 수업 요약](TIL_20230222.md) : 재귀함수, 문제풀이, 피보나치 수열(7가지풀이)
 * [20230223 수업 요약](TIL_20230223.md) : 그리디
 * [20230224 수업 요약](TIL_20230224.md) : 백트래킹과 n-Queens, 문제풀이 : 최소생산비용
-* 
+* [20230226](example/Algorithm/부분집합.py) : 부분집합구하기(재귀함수)
+
 * 숙제
+  * 부분집합 구하기 - DFS
   * 부분집합(s4837), 체육대회, 신입사원교육, 최소비용(https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT&&)
   * +1, -1 2개의 인자로 n개의 list만드는 법 찾기 2^n, 부분집합??? 하기
   * 피로도, 던전탐험
   * 백트래킹과 n-Queens
     * https://velog.io/@annie1004619/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%EA%B3%BC-n-Queens
     * https://www.youtube.com/watch?v=HRwFgtiqHH0
-    * https://www.youtube.com/watch?v=x_xoF7109Mg
   * 추가학습 필요
     * 정렬
     * minimum span tree(MST) : 그래프의 최소 비용 문제
