@@ -46,15 +46,19 @@ print("제네레이터 구현 방식 : ", arr)
 
 # 방법 4. 메모이제이션 구현 방법 (Memoization Method)
 def fib4(n):
-    fibList=[0, 1]
-    if n == 0:
-        return 0
-    elif n <= 2:
-        return 1
-    for i in range(2, n+1):
-        fibList.append(fibList[i-1] + fibList[i-2])
-    return fibList
-print("메모이제이션 구현 방법 : ", fib4(n))
+    if 'fibdic' not in globals():
+        global fibdic
+        fibdic = {0:0, 1:1}
+        return n
+    elif n in fibdic:
+        return fibdic[n]
+    else:
+        fibdic[n] = fib4(n-1) + fib4(n-2)
+        return fibdic[n]
+print("메모이제이션 구현 방법 : ")
+for i in range(0, n+1):
+    print(fib4(i), end=' ')
+print('\n')
 # [0, 1, 1, 2, 3, 5]
 
 
