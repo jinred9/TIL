@@ -1,4 +1,8 @@
 ## :star2: **인공지능 기초**
+* [20230227 수업 요약](TIL_20230227.md) : 
+
+
+
 
 
 
@@ -14,9 +18,7 @@
   * [부분집합.py](example/Algorithm/부분집합.py)
 
 * 숙제
-  * 부분집합 구하기 - DFS
   * 부분집합(s4837), 체육대회, 신입사원교육, 최소비용(https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT&&)
-  * +1, -1 2개의 인자로 n개의 list만드는 법 찾기 2^n, 부분집합??? 하기
   * 피로도, 던전탐험
   * 백트래킹과 n-Queens
     * https://velog.io/@annie1004619/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%EA%B3%BC-n-Queens
