@@ -312,6 +312,7 @@ A$\cap$B
 | 작거나 같다	| \leq  	| ≤       |
 | 교집합   		| \cap  	| ∩       |
 | 합집합  		| \cup   	| ∪       |
+| 차집합  		| \in   	| $x \in [-1,1]$	|
 | 곱하기  		| \times  	| ×       |
 | 나누기   		| \div  	| ÷       |
 				
@@ -319,10 +320,28 @@ A$\cap$B
 
 | 이름   | 사용법   | 반환    |
 | ------ | ------   | ------- |
-| 알파   |  \alpha  |  α      |
-| 베타   |  \beta   |  β      |
-| 감마   |  \gamma  |  γ      |
-		
+| 알파   | \alpha  	| $\alpha$		|
+| 베타   | \beta   	| $\beta$      	|
+| 감마   | \gamma  	| $\gamma$      |
+| 델타   | \delta  	| $\delta$      |
+| 엡실론 | \epsilon	| $\epsilon$    |
+| 제타   | \zeta   	| $\zeta$       |
+| 에타   | \eta    	| $\eta$       	|
+| 쎄타   | \theta  	| $\theta$      |
+| 카파   | \kappa  	| $\kappa$      |
+| 람다   | \lambda 	| $\lambda$     |
+| 뮤   	 | \mu   	| $\mu$       	|
+| 누     | \nu   	| $\nu$       	|
+| 크싸이 | \xi   	| $\xi$       	|
+| 파이   | \pi   	| $\pi$       	|
+| 로     | \rho   	| $\rho$       	|
+| 시그마 | \sigma   | $\sigma$      |
+| 타우   | \tau   	| $\tau$       	|
+| 파이/피| \phi   	| $\phi$       	|
+| 카이   | \chi   	| $\chi$       	|
+| 프사이 | \psi   	| $\psi$       	|
+| 오메가 | \omega   | $\omega$      |
+
 * 화살표
 
 | 이름   				| 사용법 	  		| 반환 	  |
@@ -344,14 +363,36 @@ A$\cap$B
 | 2의10승     	| 2^{10}	|       |
 | 2의 3분의2승	| 2^{_3^2}  |       |
 
-		
+* 수학수식
 
-
-
-
-
-
-
+| 이름   		| 사용법   	| 반환 	|
+| ------ 		| ------ 	| ----- |
+| 덧셈| $1 + 1 = 2$| |
+| 뺄셈| $2 - 1 = 1$| |
+| 곱셈| $2 \times 2 = 4$| |
+| 나눗셈| $4 \div 2 = 2$| |
+| 분수1| $\frac{1}{2}$| |
+| 분수2| $^1/_2$| |
+| 수학 공식 | $X_{1,j} \mathbf{F}X_{2,j}  = 0$| |
+| 자동 괄호 리사이즈| $$\left(\frac{2}{3}\right)$$| |
+| 위첨자 지수| $2^2=4$| |
+| 아래첨자| $a_1, a_2, a_3$| |
+| dots | $\dots$| |
+| 가운데 점| $\cdots$| |
+| 세로 점| $\vdots$| |
+| 대각선 점| $\ddots$| |
+| 루트(거듭제곱근)| $\sqrt{2}$| |
+| 펙토리얼| $n! = \prod_{k=1}^n k$| |
+| 삼각함수| $\cos (2\theta) = \cos^2 \theta - \sin^2 \theta$| |
+| 파이| $\pi$ $\Pi$ $\phi$| |
+| 각도| $90^\circ$| |
+| 극한| $\lim_{x \to \infty} \exp(-x) = 0$| |
+| 시그마| $\sum_{i=1}^{10} t_i$ $\displaystyle\sum_{i=1}^{10} t_i$| |
+| 로그| $\log_b a$| |
+| 미분| $\dfrac{df(x)}{dx}=\dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial x}$| |
+| 적분| $\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x$| |
+| 벡터, 스칼라| $\overrightarrow{AB}$ $\overline{AB}$| |
+	
 
 
 #### 99. Markdwon 사용법
