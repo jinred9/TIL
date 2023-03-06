@@ -12,12 +12,6 @@
 ## :star2: **인공지능 기초**
 * [20230227 수업 요약](TIL_file/TIL_20230227.md) : Numpy, Pandas1
 * [20230228 수업 요약](TIL_file/TIL_20230228.md) : Pandas2, 기초통계
-* 
-
-
-
-
-
 
 
 ## :star2: **Algorithm**
@@ -29,7 +23,9 @@
 * [20230224 수업 요약](TIL_file/TIL_20230224.md) : 백트래킹과 n-Queens, 문제풀이 : 최소생산비용
 * [20230226](TIL_file/TIL_20230226.md) : **부분집합구하기** - 재귀함수, DFS, n까지의 부분집합, 순열모듈, m**n 부분집합 구하기
   * [부분집합.py](example/Algorithm/부분집합.py)
-* [20230228](TIL_file/TIL_20230228.md) : 구슬탈출2
+* [20230301](TIL_file/TIL_20230301.md) : 구슬탈출2 - 실패
+* [20230306](TIL_file/TIL_20230306.md) : 프로그래밍과 논리 / 수학
+* 
 
 * 숙제
   * 부분집합(s4837), 체육대회, 신입사원교육, 최소비용(https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT&&)
