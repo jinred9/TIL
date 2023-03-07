@@ -392,6 +392,7 @@ A$\cap$B
 | 미분| $\dfrac{df(x)}{dx}=\dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial x}$| |
 | 적분| $\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x$| |
 | 벡터, 스칼라| $\overrightarrow{AB}$ $\overline{AB}$| |
+| 햇| $\hat{X}$| |
 	
 
 
