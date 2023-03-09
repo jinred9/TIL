@@ -304,17 +304,21 @@ A$\cap$B
 
 * 산술 기호
 
-| 이름   		| 사용법	| 반환 	  |
-| ------ 		| ------ 	| ------- |
-| 크다   		| > 		| >       |
-| 크거나 같다   | \ngtr    	| ≥	      |
-| 작다    		| <  		| <       |
-| 작거나 같다	| \leq  	| ≤       |
-| 교집합   		| \cap  	| ∩       |
-| 합집합  		| \cup   	| ∪       |
-| 차집합  		| \in   	| $x \in [-1,1]$	|
-| 곱하기  		| \times  	| ×       |
-| 나누기   		| \div  	| ÷       |
+| 이름   		| 사용법	| 반환			|
+| ------ 		| ------ 	| -------		|
+| 크다   		| > 		| >				|
+| 크거나 같다   | \ngtr    	| ≥				|
+| 작다    		| <  		| <				|
+| 작거나 같다	| \leq  	| ≤				|
+| 완전히 같다	| \equiv  	| $\equiv$		|
+| 				| \cong  	| $\cong$		|
+| 비슷하다		| \approx  	| $\approx$		|
+| 같지않다		| \ne  		| $\ne$			|
+| 교집합   		| \cap  	| ∩				|
+| 합집합  		| \cup   	| ∪				|
+| 차집합  		| \in   	| $x\in[-1,1]$	|
+| 곱하기  		| \times  	| ×				|
+| 나누기   		| \div  	| ÷				|
 				
 * 그리스 알파벳
 
@@ -392,6 +396,7 @@ A$\cap$B
 | 미분| $\dfrac{df(x)}{dx}=\dfrac{\partial z}{\partial y}\dfrac{\partial y}{\partial x}$| |
 | 적분| $\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x$| |
 | 벡터, 스칼라| $\overrightarrow{AB}$ $\overline{AB}$| |
+| bar| $\bar{X}$| |
 | 햇| $\hat{X}$| |
 	
 
