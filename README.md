@@ -10,6 +10,7 @@
 * [20230307 수업 요약](TIL_file/TIL_20230307.md) : 그래프에 의한 기술통계, 수치적 기술통계, 통계적 추론 개요, 표본추출법, 점추정과 구간추정
 * [20230308 수업 요약](TIL_file/TIL_20230308.md) : 가설검정의 원리, 모평균에 관한 가설검정(one sample t test)
 * [20230309 수업 요약](TIL_file/TIL_20230309.md) : 모평균 비교에 관한 가설검정(independent two sample t test)
+* [20230310 수업 요약](TIL_file/TIL_20230310.md) : 모평균 비교에 관한 가설검정(paired t test), 모평균 비교에 관한 가설검정(One way ANOVA 및 사후검정)
 
 
 
