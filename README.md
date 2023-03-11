@@ -13,11 +13,6 @@
 * [20230310 수업 요약](TIL_file/TIL_20230310.md) : 모평균 비교에 관한 가설검정(paired t test), 모평균 비교에 관한 가설검정(One way ANOVA 및 사후검정)
 
 
-
-
-
-
-
 ## :star2: **인공지능 기초**
 * [20230227 수업 요약](TIL_file/TIL_20230227.md) : Numpy, Pandas1
 * [20230228 수업 요약](TIL_file/TIL_20230228.md) : Pandas2, 기초통계
