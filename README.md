@@ -17,6 +17,7 @@
 
 
 
+
 ## :star2: **인공지능 기초**
 * [20230227 수업 요약](TIL_file/TIL_20230227.md) : Numpy, Pandas1
 * [20230228 수업 요약](TIL_file/TIL_20230228.md) : Pandas2, 기초통계
