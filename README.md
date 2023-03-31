@@ -20,8 +20,9 @@
 * [20230325 수업 요약](TIL_file/202303/TIL_20230325.md) : 아나콘다 프로그램 소개 및 설치 / 기본 문법 1
 * [20230326 수업 요약](TIL_file/202303/TIL_20230326.md) : 기본 문법 2 / EDA / 표본 추출 / 데이터 전처리: 결측치, 이상치
 * [20230327 수업 요약](TIL_file/202303/TIL_20230327.md) : 데이터 전처리: 파생변수 생성 / 데이터 전처리: 데이터 병합
-* [20230328 수업 요약](TIL_file/202303/TIL_20230328.md) : 데이터 전처리: 정렬 및 변환 / 데이터 전처리: 사용자 정의 함수 활용
-
+* [20230328 수업 요약](TIL_file/202303/TIL_20230328.md) : 데이터 전처리: 정렬 및 변환 / 데이터 전처리: 사용자 정의 함수 활용 / 모평균 비교에 관한 가설검정: t-test
+* [20230331 수업 요약](TIL_file/202303/TIL_20230331.md) : 모평균 비교에 관한 가설검정: One way ANOVA / 모평균 비교에 관한 가설검정: Two way ANOVA / 모분산 비교에 관한 가설검정: 등분산 검정(F-test of equality of variances) / 범주형 변수 간의 독립성 검정(Chi-squared test) / 시계열 분석 / 상관분석 / 계층적 군집분석(Hierarchical Clustering) / 비계층적 군집분석(K-means Clustering) / 단순 회귀분석(Simple Linear Regression) / 다중 회귀분석(Multiple Linear Regression)
+* [20230401 수업 요약](TIL_file/202304/TIL_20230401.md) : 
 
 
 
