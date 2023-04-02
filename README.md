@@ -24,11 +24,7 @@
 * [20230331](TIL_file/202303/TIL_20230331.md) : 모평균 비교에 관한 가설검정: One way ANOVA / 모평균 비교에 관한 가설검정: Two way ANOVA / 모분산 비교에 관한 가설검정: 등분산 검정(F-test of equality of variances) / 범주형 변수 간의 독립성 검정(Chi-squared test) / 시계열 분석 / 상관분석 / 계층적 군집분석(Hierarchical Clustering) / 비계층적 군집분석(K-means Clustering) / 단순 회귀분석(Simple Linear Regression) / 다중 회귀분석(Multiple Linear Regression)
 * [20230401](TIL_file/202304/TIL_20230401.md) : 분류: 로지스틱 회귀분석(Logistic Regression)
 * [20230402](TIL_file/202304/TIL_20230402.md) : 분류: 나이브 베이즈(Naïve Bayes)
-* [20230403](TIL_file/202304/TIL_20230403.md) : KNN(K-Nearest Neighbor)
-
-
-
-
+* [20230403](TIL_file/202304/TIL_20230403.md) : KNN(K-Nearest Neighbor) / 의사결정나무 모델: 분류 및 회귀나무 / 추천: 연관성 분석(Association Rule) / 주성분 분석(PCA)
 
 ## :star2: **인공지능 기초**
 * [20230227](TIL_file/202302/TIL_20230227.md) : Numpy, Pandas1
