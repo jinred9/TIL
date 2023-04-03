@@ -3,6 +3,15 @@
 2. alt + shift + 방향키 : 커서의 라인을 위아래로 이동
 
 
+## :star2: **머신러닝**
+* [20230404](TIL_file/202304/TIL_20230404.md) :
+
+
+
+
+
+
+
 ## :star2: **ProDS**
 * [20230304](TIL_file/202303/TIL_20230304.md) : 확률, 베이즈정리
 * [20230305](TIL_file/202303/TIL_20230305.md) : 확률변수와 확률분포, 분포의 특성치, 이항분포, 포아송분포, 지수분포, 감마분포
@@ -42,7 +51,6 @@
   * [부분집합.py](example/Algorithm/부분집합.py)
 * [20230301](TIL_file/202303/TIL_20230301.md) : 구슬탈출2 - 실패
 * [20230306](TIL_file/202303/TIL_20230306.md) : 프로그래밍과 논리 / 수학
-* 
 
 * 숙제
   * 부분집합(s4837), 체육대회, 신입사원교육, 최소비용(https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT&&)
