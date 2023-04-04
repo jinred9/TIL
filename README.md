@@ -4,7 +4,11 @@
 
 
 ## :star2: **머신러닝**
-* [20230404](TIL_file/202304/TIL_20230404.ipynb) : python(class & package / )
+* [20230404](TIL_file/202304/TIL_20230404.ipynb) : Python_Data_Analytics_and_Visualization
+  * Class & Package
+  * Pandas
+* [20230405](TIL_file/202304/TIL_20230405.ipynb) : Python_Data_Analytics_and_Visualization
+  * Data Preprocessing
 
 
 
