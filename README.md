@@ -4,7 +4,7 @@
 
 
 ## :star2: **머신러닝**
-* [20230404](TIL_file/202304/TIL_20230404.md) :
+* [20230404](TIL_file/202304/TIL_20230404.ipynb) : python(class & package / )
 
 
 
