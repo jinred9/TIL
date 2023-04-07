@@ -8,7 +8,9 @@
   * Class & Package
   * Pandas
 * [20230405](TIL_file/202304/TIL_20230405.ipynb) : Python_Data_Analytics_and_Visualization
-  * Data Preprocessing
+  * Data Preprocessing - Missing value
+* [20230408](TIL_file/202304/TIL_20230408.ipynb) : Python_Data_Analytics_and_Visualization
+  * Data Preprocessing - Filtering
 
 
 
