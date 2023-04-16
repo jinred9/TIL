@@ -11,6 +11,10 @@
   * Data Preprocessing - Missing value
 * [20230408](TIL_file/202304/TIL_20230408.ipynb) : Python_Data_Analytics_and_Visualization
   * Data Preprocessing - Filtering
+* [20230409](TIL_file/202304/TIL_20230409.ipynb) : Python_Data_Analytics_and_Visualization
+  * Data Preprocessing - Filtering
+* [20230417](TIL_file/202304/TIL_20230417.ipynb) : Python_Data_Analytics_and_Visualization
+  * Data Preprocessing - join, merge
 
 
 
