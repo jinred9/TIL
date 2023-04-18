@@ -14,7 +14,10 @@
 * [20230409](TIL_file/202304/TIL_20230409.ipynb) : Python_Data_Analytics_and_Visualization
   * Data Preprocessing - Filtering
 * [20230417](TIL_file/202304/TIL_20230417.ipynb) : Python_Data_Analytics_and_Visualization
-  * Data Preprocessing - join, merge
+  * Data Preprocessing - concat(), merge(), groupby(), agg(), filter(), pivot_table(), value_counts(), nunique(), replace()
+  * matplotlib - 선그래프, bar(), barh(), hist(), boxplot(), scatter(), pie(), subplot()
+  * seaborn - lineplot, barplot, countplot, histplot, boxplot, scatterplot, violinplot, multi-histplot
+* [20230419](TIL_file/202304/TIL_20230419.ipynb) : Python_Machine_Learing
 
 
 
